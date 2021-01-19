@@ -4,4 +4,3 @@ seaborn
 pandas
 sklearn
 plotly
-base64
