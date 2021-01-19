@@ -2,3 +2,7 @@ streamlit
 numpy
 seaborn
 pandas
+pickle
+sklearn
+plotly
+base64
